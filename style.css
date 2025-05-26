@@ -1,0 +1,152 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #fff;
+  color: #000;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  margin-top: -150px;  
+  margin-bottom: 0;
+  margin-left: 15px;
+  font-size: 10px;
+}
+
+h3 {
+  padding-top: 20px;
+  font-size: 13px;
+}
+
+.open {
+  font-size: 10px; 
+  font-weight: bold; 
+}
+
+.department1 {
+  font-size: 10px;
+  margin-top: 18px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+
+.summary {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.note {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.logo-container {
+  text-align: left;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.Session-list {
+  font-size: 10px;
+}
+
+.matric-no {
+  font-size: 9px;
+  padding-top: 30px;
+}
+
+.label {
+  text-decoration: underline;
+  font-style: italic;
+  padding-left: 25px;
+}
+
+.special-color {
+    background-color: rgb(124, 124, 247);
+    color: white;
+}
+
+tbody {
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.move-space {
+   margin-top: 50px;
+}
+
+.tnu-no {
+   margin-left: -60px;
+   font-size: 12px;
+   font-style: italic;
+
+}
+
+.tcp-no {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.general-edit {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: -60px;
+    margin-top: 0;
+}
+
+.cont-align {
+    text-align: left;
+}
+
+.out-stand {
+    font-size: 12px;
+    margin-left: -60px;
+    font-style: italic;
+    padding-top: 35px;
+}
+
+.gpa-para {
+    padding-top: 60px;
+    font-size: 12px;
+    padding-left: 80px;
+}
+.cgpa-score {
+    padding-left: 130px;
+}
+
+.note {
+    padding-top: 300px;
+}
+
+.note-p1 {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.note-p2 {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
